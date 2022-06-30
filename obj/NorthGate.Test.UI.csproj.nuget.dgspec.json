@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\essences\\Desktop\\northgate\\NorthGate\\src\\NorthGate.Test.UI\\NorthGate.Test.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\essences\\Desktop\\northgate\\NorthGate\\src\\NorthGate.Test.UI\\NorthGate.Test.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\essences\\Desktop\\northgate\\NorthGate\\src\\NorthGate.Test.UI\\NorthGate.Test.UI.csproj",
+        "projectName": "NorthGate.Test.UI",
+        "projectPath": "C:\\Users\\essences\\Desktop\\northgate\\NorthGate\\src\\NorthGate.Test.UI\\NorthGate.Test.UI.csproj",
+        "packagesPath": "C:\\Users\\essences\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\essences\\Desktop\\northgate\\NorthGate\\src\\NorthGate.Test.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\essences\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.5, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
