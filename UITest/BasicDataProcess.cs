@@ -199,7 +199,7 @@ namespace NorthGate.Test.UI.UITest
             file.Close();
             workbook.Close();
             //刪除測試資料
-            var connstr = "Server=192.168.32.143;Database=north_gate;Username=north_gate_admin;Password=@$&&%@%&essens;";
+            var connstr = "Server=****;Database=north_gate;Username=north_gate_admin;Password=****;";
             NpgsqlConnection connection = new NpgsqlConnection(connstr);
 
             connection.Open();
